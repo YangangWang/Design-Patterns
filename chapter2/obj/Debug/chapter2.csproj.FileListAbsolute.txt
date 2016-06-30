@@ -1,0 +1,9 @@
+E:\我的坚果云\Projects\设计模式\chapter2\bin\Debug\chapter2.exe
+E:\我的坚果云\Projects\设计模式\chapter2\bin\Debug\chapter2.pdb
+E:\我的坚果云\Projects\设计模式\chapter2\obj\Debug\chapter2.csprojResolveAssemblyReference.cache
+E:\我的坚果云\Projects\设计模式\chapter2\obj\Debug\chapter2.Form1.resources
+E:\我的坚果云\Projects\设计模式\chapter2\obj\Debug\chapter2.Properties.Resources.resources
+E:\我的坚果云\Projects\设计模式\chapter2\obj\Debug\chapter2.csproj.GenerateResource.Cache
+E:\我的坚果云\Projects\设计模式\chapter2\obj\Debug\chapter2.exe.licenses
+E:\我的坚果云\Projects\设计模式\chapter2\obj\Debug\chapter2.exe
+E:\我的坚果云\Projects\设计模式\chapter2\obj\Debug\chapter2.pdb
